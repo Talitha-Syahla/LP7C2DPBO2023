@@ -17,4 +17,4 @@ File README ini berisikan design program, penjelasan alur program, dan dokumenta
 
 # Dokumentasi
 
-![Java program](dok.png)
+![Java program](Dokumentasi.mp4)
