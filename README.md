@@ -17,4 +17,4 @@ File README ini berisikan design program, penjelasan alur program, dan dokumenta
 
 # Dokumentasi
 
-![Java program](Dokumentasi.mp4)
+https://github.com/Talitha-Syahla/LP7C2DPBO2023/blob/6966fd32cf949d0b0080eddd90194389dab852a6/Dokumentasi.mp4
